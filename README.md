@@ -43,5 +43,5 @@ you can process the data.
 
 ##Output Files
 
-1. Tidy data set file: averages_data.txt
+1. Tidy data set file: tidyData.txt
 2. File that describes the variables, the data, and any transformations or work that was performed to clean up the data: CodeBook.md
