@@ -22,7 +22,6 @@ if("plyr" %in% rownames(installed.packages()) == FALSE) {install.packages("plyr"
 rm(list=ls())
 
 # 1. Merge the training and the test sets to create one data set.
-
 #set working directory to the location where the UCI HAR Dataset was unzipped
 setwd('C:/Users/Patanjali/Documents/GitHub/Getting And Cleaning Data Course Project/UCI HAR Dataset');
 
